@@ -30,7 +30,7 @@ https://www.youtube.com/shorts/WVLREacniK8
 
 ![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/112189899/217962148-64d6f461-3331-4878-b504-c799ae814c06.png)
 
-Les vehicules delabrer sont parsemer d'engin technologique et de plantes.
+Les véhicules delabrés sont parsemer d'engins technologiques et de plantes.
 # Éléments nécessaires à la mise en exposition
 câbles et lumière.
 # Expérience vécue

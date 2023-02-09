@@ -21,4 +21,11 @@ https://www.youtube.com/shorts/TpntbtxU_70
 # Mise en espace
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/112189899/217960714-e51edb26-57e9-4735-bac7-31e412350a8f.png)
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/112189899/217961691-9c9249ad-1a1d-41fc-8f43-05a70b979d61.png)
+
 https://www.youtube.com/shorts/WVLREacniK8
+# Composantes et techniques
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/112189899/217961971-6e2d30e4-1887-4c47-8619-a5e93fb42217.png)
+
+![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/112189899/217962124-0343fcd2-b401-4e9a-bd16-54c5b8978130.png)
+
+![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/112189899/217962148-64d6f461-3331-4878-b504-c799ae814c06.png)

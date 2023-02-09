@@ -12,3 +12,7 @@ Permanente.
 Paul Duncombe.
 # Année de réalisation
 2022
+# Description de l'oeuvre
+![MicrosoftTeams-image copie](https://user-images.githubusercontent.com/112189899/217934952-9d8b21aa-61de-4e0e-bdc8-eaa3fbd7157b.png)
+# Type d'installation (contemplative, immersive, interactive)
+Contemplative

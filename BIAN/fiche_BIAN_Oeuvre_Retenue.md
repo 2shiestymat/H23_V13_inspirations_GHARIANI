@@ -29,3 +29,13 @@ https://www.youtube.com/shorts/WVLREacniK8
 ![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/112189899/217962124-0343fcd2-b401-4e9a-bd16-54c5b8978130.png)
 
 ![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/112189899/217962148-64d6f461-3331-4878-b504-c799ae814c06.png)
+
+Les vehicules delabrer sont parsemer d'engin technologique et de plantes.
+# Éléments nécessaires à la mise en exposition
+câbles et lumière.
+# Expérience vécue
+Le visiteur peut admirer tout les détailles de l'oeuvre et une fois de temps en temps des petites lumières s'allument et de la fumer sort des véhicules.
+# ❤️ Ce qui vous a plu, vous a donné des idées
+J'ai aimé le fait que l'oeuvre ai énormement de détailles, je l'ai admiré longtemps! Et surtout, j'adore le mélange de technologie et de nature en même temps.
+# 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+Personnelement, je trouve que les lumières et la fumer n'étaient pas assez. J'aurait mis plus d'élément de ce genre...

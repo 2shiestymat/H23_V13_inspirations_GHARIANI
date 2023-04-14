@@ -1,4 +1,4 @@
-Katerine Charbonneau
+Plus qu'un dispositif...
 
 Le jeudi 28 mars, j'ai eu la chance d'assister à la conférence de Karine Charbonneau. Karine Charbonneau est la cheffe des expositions et registraire du Studio Antimodular de Rafael Lozano-Hemmer. Le studio Antimodular, est un studio qui réalise des expositions intéractives artistiques à travers le monde. La conférence avait pour thème La logistique de gestion de collection et de mise en exposition de la production d'un artiste en art numérique.
 

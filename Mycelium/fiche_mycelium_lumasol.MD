@@ -1,7 +1,7 @@
 # **Luma Sol**
 
 ## Exposition
-Mycélium
+### Mycélium
 
 ## Lieu de mise en exposition
 Collège Montmorency
@@ -24,3 +24,10 @@ Luma Sol
 2023
 
 ## Description de l'oeuvre ou du dispositif
+
+
+##
+
+##
+
+##

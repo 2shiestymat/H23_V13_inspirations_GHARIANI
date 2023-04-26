@@ -26,7 +26,39 @@ Luma Sol
 ## Description de l'oeuvre ou du dispositif
 ![image sélection nom du fichier](media/lumasol_photo_02.png)
 ![image sélection nom du fichier](media/lumasol_photo_02.png)
+
 Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux.
+
+## Type d'installation
+interactive
+
+## Fonction du dispositif multimédia
+
+## Mise en espace
+![image sélection nom du fichier](media/lumasol_photo_plan.png)
+![image sélection nom du fichier](media/lumasol_photo_croquis.png)
+
+L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est relié a celui-ci. Et le dispositif lumineux est accrocher dans l'arbre en question.
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
 
 ##
 

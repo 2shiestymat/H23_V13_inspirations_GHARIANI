@@ -44,7 +44,7 @@ L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est reli
 ## Composantes et techniques
 ![image sélection nom du fichier](media/lumasol_photo_technique_01.png)
 ![image sélection nom du fichier](media/lumasol_photo_technique_02.png)
-- Logiciels (Arduino, Visual studio code, VCV et Madmapper)
+- Logiciels ( Arduino, Visual studio code, VCV et Madmapper )
 - ordinateurs ( 1 mac mini )
 - équipement manuel ( perceuse, toune-vis, ect... )
 - pieces électroniques

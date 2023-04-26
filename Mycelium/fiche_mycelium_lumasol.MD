@@ -42,6 +42,8 @@ interactive
 L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est relié a celui-ci. Le dispositif lumineux est accrocher dans l'arbre en question et six poteaux lumineux entour le vélo.
 
 ## Composantes et techniques
+![image sélection nom du fichier](media/lumasol_photo_technique_01.png)
+![image sélection nom du fichier](media/lumasol_photo_technique_02.png)
 - Logiciels ( MAX, Davinci, Exel,...)
 - ordinateurs
 - perceuse

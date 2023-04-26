@@ -12,7 +12,7 @@ Dans l'oeuvre Luma Sol, on produit de l'énergie sans polué la planet. Cela nou
 Je met ce projet en première position car, j'ardore l'idée du velo. Les utilisateurs seront certainement fascinés en tournant les roues du vélo, tandis que les différentes lumières et sons représentant les saisons de l'année leur donneront une signification. En testant le vélo, j'essaierai de distinguer chaque son et chaque lumière pour comprendre leur signification respective. Aussi, le projet nous sensiblise sur l'environnement.
 
 ### Impression
-J'ai adore decouvrir les differents song et pouvoir faire du sport tout en etant emerveiller par les lumieres.
+J'ai adoré decouvrir les différents song et pouvoir faire du sport tout en étant émerveiller par les lumieres.
 
 # **2. EDRIA**
 Tout comme les champignons mycélium (s'entraide pour le bon fonctionnement de la biodiversité en général), dans l'oeuvre intéractive EDRIA, il faut s'entaider pour pouvoir voir tout la beauté et la complexité de l'oeuvre.

@@ -7,7 +7,7 @@ Mycélium
 Collège Montmorency
 
 ## Type d'exposition
-temporaire
+Temporaire
 
 ## Date de votre visite
 16 février 2023

@@ -35,8 +35,9 @@ interactive
 ## Fonction du dispositif multimédia
 
 ## Mise en espace
-![image sélection nom du fichier](media/lumasol_photo_plan.png)
 ![image sélection nom du fichier](media/lumasol_photo_croquis.png)
+![image sélection nom du fichier](media/luminasol_photo_04.jpg)
+![image sélection nom du fichier](media/luminasol_photo_05.png)
 
 L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est relié a celui-ci. Et le dispositif lumineux est accrocher dans l'arbre en question.
 

@@ -30,10 +30,22 @@ Lorsque j'ai fait la visite, le projet n'était pas encore fini mais voir la fac
 ### classement
 Je met ce projet en deuxième place, car l'idée de créer des compositions lumineuses et sonores personnalisées en fonction du nombre de personnes présentes, ainsi que d'avoir une animation spéciale lorsque des personnes se trouvent de chaque côté de la tour, est très attrayante. De plus, je pense que la mise en œuvre de ce projet est très complexe, tant sur le plan technique que sur le plan environnemental.
 
+# **3. Echomarine**
+Le projet immersif Echomarine met en avant des enjeux environnementaux sur la nature. Le but de ce projet est de nous sensibiliser sur l'environnement et la nature donc, de nous sensibiliser sur les champignions qui assure un bon fonctionnement de la nature.
 
-# **3. Nexum**
+# **4. Nexum**
+Réalisé par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers.
+
+### Lien avec Mycélium
 Dans l'oeuvre Nexum, la forme et la couleur des dispositifs lumineux peuvent nous faire penser a des champinions mycélium. Comme si le payssage étaient parsemer de champignions lumineux.
 
-# **4. Echomarine**
-Le projet immersif Echomarine met en avant des enjeux environnementaux sur la nature. Le but de ce projet est de nous sensibiliser sur l'environnement et la nature donc, de nous sensibiliser sur les champignions qui assure un bon fonctionnement de la nature.
+### Installations en cours
+
+### Schéma d'installation
+
+### Impression
+J'aime bien marcher dans un univers fantasique, mais après un passage, j'ai l'impression que j'aurai déja tout vu... Sinon j'aime bien les décorations.
+
+### classement
+Je met ce projet en quatrieme place car, pour faire tout un chemain, j'ai l'impression que quelque lumières et quelques décorations n'est pas assez pour que je sois conquis... Les lumières et les décorations sont tout de même belles et crées une bonne ambiance.
 

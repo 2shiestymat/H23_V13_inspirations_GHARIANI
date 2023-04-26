@@ -12,7 +12,7 @@ Dans l'oeuvre Luma Sol, on produit de l'énergie sans polué la planet. Cela nou
 J'ai adoré decouvrir les différents song et pouvoir faire du sport tout en étant émerveiller par les lumieres.
 
 ### classement
-Je met ce projet en première position, car j'ardore l'idée du velo. Les utilisateurs seront certainement fascinés en tournant les roues du vélo, tandis que les différentes lumières et sons représentant les saisons de l'année leur donneront une signification. En testant le vélo, j'essaierai de distinguer chaque son et chaque lumière pour comprendre leur signification respective. Aussi, le projet nous sensiblise sur l'environnement.
+Je met ce projet en première position, car j'ardore l'idée du velo. Les utilisateurs seront certainement fascinés en tournant les roues du vélo, tandis que les différentes lumières et sons représentant les saisons de l'année leur donneront une signification. En testant le vélo, j'essaierai de distinguer chaque son et chaque lumière pour comprendre leur signification respective. Ce projet comporte beaucoup de facettes et en plus, ils nous sensiblisent sur l'environnement.
 
 # **2. EDRIA**
 Réalisé par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe.

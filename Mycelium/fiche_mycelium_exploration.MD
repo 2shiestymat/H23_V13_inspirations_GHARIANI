@@ -15,14 +15,27 @@ Je met ce projet en première position car, j'ardore l'idée du velo. Les utilis
 J'ai adoré decouvrir les différents song et pouvoir faire du sport tout en étant émerveiller par les lumieres.
 
 # **2. EDRIA**
+Réalisé par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe.
+
+### Lien avec Mycélium
 Tout comme les champignons mycélium (s'entraide pour le bon fonctionnement de la biodiversité en général), dans l'oeuvre intéractive EDRIA, il faut s'entaider pour pouvoir voir tout la beauté et la complexité de l'oeuvre.
+
+### Installations en cours
+
+### Schéma d'installation
+
+### Impression
+Lorsque j'ai fait la visite, le projet n'était pas encore fini mais voir la facon donc l'oeuvre réagissait avec nous était très impressionnant!
+
+### classement
+Je met ce projet en deuxieme place car, l'idée de créer des compositions lumineuses et sonores personnalisées en fonction du nombre de personnes présentes, ainsi que d'avoir une animation spéciale lorsque des personnes se trouvent de chaque côté de la tour, est très attrayante. De plus, je pense que la mise en œuvre de ce projet est très complexe, tant sur le plan technique que sur le plan environnemental.
+
+
 
 # **3. Nexum**
 Dans l'oeuvre Nexum, la forme et la couleur des dispositifs lumineux peuvent nous faire penser a des champinions mycélium. Comme si le payssage étaient parsemer de champignions lumineux.
-
 # **4. Zodie-Gal**
 Les champigions mycélium peuvent parfois devenir dangeureux (lorsqu'ils poussent dans les arbres par example) et les monstres zodiacs du jeux vidéo Zodie-Gal represente surmment les champignions mycélium qui veulent se répendre.
-
 # **5. Echomarine**
 Le projet immersif Echomarine met en avant des enjeux environnementaux sur la nature. Le but de ce projet est de nous sensibiliser sur l'environnement et la nature donc, de nous sensibiliser sur les champignions qui assure un bon fonctionnement de la nature.
 

@@ -4,7 +4,7 @@ Réalisé par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Mo
 ### Lien avec Mycélium
 Dans l'oeuvre Luma Sol, on produit de l'énergie sans polué la planet. Cela nous rappelle qu'il faut protèger l'environnement et la nature donc, qu'il faut aussi protèger les champignions qui assure un bon fonctionnement de la nature. De plus, les dispositifs lumineux me font penser a des champignions mycélium vu qu'ils ont la meme forme et qu'ils sont dans un arbre.
 
-### Installations en cours
+### Installations
 ![image sélection nom du fichier](media/227358270-00a66609-fa9c-45e6-8e87-736a8c4f6e94.jpg)
 
 ### Schéma d'installation
@@ -21,7 +21,7 @@ Réalisé par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Mery
 ### Lien avec Mycélium
 Tout comme les champignons mycélium (s'entraide pour le bon fonctionnement de la biodiversité en général), dans l'oeuvre intéractive EDRIA, il faut s'entaider pour pouvoir voir tout la beauté et la complexité de l'oeuvre.
 
-### Installations en cours
+### Installations
 
 ### Schéma d'installation
 
@@ -37,7 +37,7 @@ Réalisé par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coro
 ### Lien avec Mycélium
 Le projet immersif Echomarine met en avant des enjeux environnementaux sur la nature. Le but de ce projet est de nous sensibiliser sur l'environnement et la nature donc, de nous sensibiliser sur les champignions qui assure un bon fonctionnement de la nature.
 
-### Installations en cours
+### Installations
 
 ### Schéma d'installation
 
@@ -53,7 +53,7 @@ Réalisé par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime De
 ### Lien avec Mycélium
 Dans l'oeuvre Nexum, la forme et la couleur des dispositifs lumineux peuvent nous faire penser a des champinions mycélium. Comme si le payssage étaient parsemer de champignions lumineux.
 
-### Installations en cours
+### Installations
 
 ### Schéma d'installation
 

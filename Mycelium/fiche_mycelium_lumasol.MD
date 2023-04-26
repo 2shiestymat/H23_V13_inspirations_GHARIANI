@@ -52,8 +52,6 @@ L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est reli
 ## Éléments nécessaires à la mise en exposition
 - cables
 - cache-fils
-- haut-parleurs
-- poteaux
 - LED Strip DMX
 - DMX Dot String
 - Boules lumineuses 200mm
@@ -77,7 +75,7 @@ Je suis très impressionné par les projets que les étudiants ont réalisés. L
 Ce qui m'a le plus plu: Les mangnifiques lumieres déposer sur l'arbre, le fait fait de pouvoir bouger ( pédaler ) pendant l'expérience, le fait que le projet soit situé a l'extérieure, le fait de pouvoir faire de l'énergie sans polué ( mécanique et électrique ) car cela nous sensibilise au niveaux de l'environnement et les différents sons qu'on peut entendre.
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Ce qui m'a le moins plu: 
+Ce qui m'a le moins plu: Je pense que la sensibilisation via l'environnement n'est pas assez claire. Oui, on pédale pour faire de l'électricité mais selon moi, ils devrait montrer artistiquement ce que le changement climatique ou ce que les problèmes d'environnement font sur la société. Finalement, j'aurais aimé que les jeux de lumières dans l'arbre soient plus élaborés. Anisi, ils auraient pu mettre plus de personnalité dans le projet.
 
 ## Références
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html

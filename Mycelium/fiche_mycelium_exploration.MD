@@ -23,8 +23,12 @@ Réalisé par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Mery
 Tout comme les champignons mycélium (s'entraide pour le bon fonctionnement de la biodiversité en général), dans l'oeuvre intéractive EDRIA, il faut s'entaider pour pouvoir voir tout la beauté et la complexité de l'oeuvre.
 
 ### Installations
+![image sélection nom du fichier]()
+![image sélection nom du fichier]()
 
 ### Schéma d'installation
+![image sélection nom du fichier]()
+![image sélection nom du fichier]()
 
 ### Impression
 Lorsque j'ai fait la visite, le projet n'était pas encore fini mais voir la facon donc l'oeuvre réagissait avec nous était très impressionnant!

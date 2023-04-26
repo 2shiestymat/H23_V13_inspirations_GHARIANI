@@ -49,11 +49,11 @@ Le projet immersif Echomarine met en avant des enjeux environnementaux sur la na
 
 ### Installations
 ![image sélection nom du fichier](media/echomarine_photo_02.png)
-![image sélection nom du fichier]()
+![image sélection nom du fichier](media/echomarine_photo_01.png)
 ![image sélection nom du fichier]()
 
 ### Schéma d'installation
-![image sélection nom du fichier]()
+![image sélection nom du fichier](media/echomarine_photo_plan.png)
 ![image sélection nom du fichier]()
 ![image sélection nom du fichier]()
 
@@ -70,13 +70,13 @@ Réalisé par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime De
 Dans l'oeuvre Nexum, la forme et la couleur des dispositifs lumineux peuvent nous faire penser a des champinions mycélium. Comme si le payssage étaient parsemer de champignions lumineux.
 
 ### Installations
-![image sélection nom du fichier]()
-![image sélection nom du fichier]()
-![image sélection nom du fichier]()
+![image sélection nom du fichier](media/nexum_photo_03.png)
+![image sélection nom du fichier](media/nexum_photo_01.png)
+![image sélection nom du fichier](media/nexum_photo_02.png)
 
 ### Schéma d'installation
-![image sélection nom du fichier]()
-![image sélection nom du fichier]()
+![image sélection nom du fichier](media/nexum_plan_01.gif)
+![image sélection nom du fichier](media/nexum_plan_02.png)
 ![image sélection nom du fichier]()
 
 ### Impression

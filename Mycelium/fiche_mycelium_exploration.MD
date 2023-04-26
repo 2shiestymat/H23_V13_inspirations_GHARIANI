@@ -24,7 +24,7 @@ Réalisé par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Mery
 Tout comme les champignons mycélium (s'entraide pour le bon fonctionnement de la biodiversité en général), dans l'oeuvre intéractive EDRIA, il faut s'entaider pour pouvoir voir tout la beauté et la complexité de l'oeuvre.
 
 ### Installations
-![image sélection nom du fichier](media/edria_photo_03.png)
+![image sélection nom du fichier](media/photo_edria_02.jpg)
 ![image sélection nom du fichier](media/edria_photo_01.png)
 ![image sélection nom du fichier]()
 
@@ -67,7 +67,6 @@ Réalisé par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime De
 Dans l'oeuvre Nexum, la forme et la couleur des dispositifs lumineux peuvent nous faire penser a des champinions mycélium. Comme si le payssage étaient parsemer de champignions lumineux.
 
 ### Installations
-![image sélection nom du fichier](media/nexum_photo_03.png)
 ![image sélection nom du fichier](media/nexum_photo_01.png)
 ![image sélection nom du fichier](media/nexum_photo_02.png)
 

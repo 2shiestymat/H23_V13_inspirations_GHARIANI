@@ -5,14 +5,11 @@ Réalisé par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Mo
 Dans l'oeuvre Luma Sol, on produit de l'énergie sans polué la planet. Cela nous rappelle qu'il faut protèger l'environnement et la nature donc, qu'il faut aussi protèger les champignions qui assure un bon fonctionnement de la nature. De plus, les dispositifs lumineux me font penser a des champignions mycélium vu qu'ils ont la meme forme et qu'ils sont dans un arbre.
 
 ### Installations
-![image sélection nom du fichier](media/lumasol_photo_03.jpg)
 ![image sélection nom du fichier](media/lumasol_photo_01.png)
 ![image sélection nom du fichier](media/lumasol_photo_02.png)
 
 ### Schéma d'installation
 ![image sélection nom du fichier](media/lumasol_photo_plan.png)
-![image sélection nom du fichier]()
-![image sélection nom du fichier]()
 
 ### Impression
 J'ai adoré decouvrir les différents song et pouvoir faire du sport tout en étant émerveiller par les lumieres.

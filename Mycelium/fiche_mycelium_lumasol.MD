@@ -67,7 +67,7 @@ L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est reli
 Je suis très impressionné par les projets que les étudiants ont réalisés. Luma Sol m'a beacoup surpris, je ne savais pas qu'un projet pouvait comporter autant de particularitées et de facettes. C'est quand meme incroyable que des étudiants ai réussi à faire de la lumière et des sons à partir d'un vélo-stationnaire. Dans une seule oeuvre, tu peux découvrir plusieurs saisons, écouter toute sorte de sons et voir un magnifique jeux de lumières tout en pédalant! 
 
 ## ❤️ Ce qui vous a plu
-
+Ce qui m'a le plus plu: Les mangnifiques lumieres déposer sur l'arbre, le fait fait de pouvoir bouger ( pédaler ) pendant l'expérience, le fait que le projet soit situé a l'extérieure, le fait de pouvoir faire de l'énergie sans polué ( mécanique et électrique ) car cela nous sensibilise au niveaux de l'environnement et les différents sons qu'on peut entendre.
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 

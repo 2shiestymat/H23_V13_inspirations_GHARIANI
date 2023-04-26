@@ -26,7 +26,6 @@ Tout comme les champignons mycélium (s'entraide pour le bon fonctionnement de l
 ### Installations
 ![image sélection nom du fichier](media/photo_edria_02.jpg)
 ![image sélection nom du fichier](media/edria_photo_01.png)
-![image sélection nom du fichier]()
 
 ### Schéma d'installation
 ![image sélection nom du fichier](media/edria_photo_plan_01.png)
@@ -47,12 +46,9 @@ Le projet immersif Echomarine met en avant des enjeux environnementaux sur la na
 ### Installations
 ![image sélection nom du fichier](media/echomarine_photo_02.png)
 ![image sélection nom du fichier](media/echomarine_photo_01.png)
-![image sélection nom du fichier]()
 
 ### Schéma d'installation
 ![image sélection nom du fichier](media/echomarine_photo_plan.png)
-![image sélection nom du fichier]()
-![image sélection nom du fichier]()
 
 ### Impression
 Je pense que je serais assez conquis par ce projet car la projections fait toute la piece. Les animations au aussi l'air relaxante.
@@ -73,7 +69,6 @@ Dans l'oeuvre Nexum, la forme et la couleur des dispositifs lumineux peuvent nou
 ### Schéma d'installation
 ![image sélection nom du fichier](media/nexum_plan_01.gif)
 ![image sélection nom du fichier](media/nexum_plan_02.png)
-![image sélection nom du fichier]()
 
 ### Impression
 J'aime bien marcher dans un univers fantasique, mais après un passage, j'ai l'impression que j'aurai déja tout vu... Sinon j'aime bien les décorations.

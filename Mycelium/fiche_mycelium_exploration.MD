@@ -76,5 +76,5 @@ J'aime bien marcher dans un univers fantasique, mais après un passage, j'ai l'i
 ### classement
 Je met ce projet en quatrième place, car pour faire tout un chemain, j'ai l'impression que quelque lumières et quelques décorations n'est pas assez pour que je sois conquis... Les lumières et les décorations sont tout de même belles et crées une bonne ambiance. Cepandant, je trouve que le fait d'intégré des dessins est une bonne idée!
 
-## Sources
+## Références
 https://tim-montmorency.com/2023/

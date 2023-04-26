@@ -39,30 +39,18 @@ interactive
 ![image sélection nom du fichier](media/luminasol_photo_04.jpg)
 ![image sélection nom du fichier](media/luminasol_photo_05.png)
 
-L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est relié a celui-ci. Et le dispositif lumineux est accrocher dans l'arbre en question.
+L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est relié a celui-ci. Le dispositif lumineux est accrocher dans l'arbre en question et six poteaux lumineux entour le vélo.
 
-##
+## Composantes et techniques
+- Logiciels
+- 
 
-##
+## Éléments nécessaires à la mise en exposition
 
-##
+## Expérience vécue
 
-##
+## ❤️ Ce qui vous a plu
 
-##
+## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
+## Références

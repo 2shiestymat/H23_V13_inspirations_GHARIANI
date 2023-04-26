@@ -30,14 +30,14 @@ Luma Sol
 Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumière et un rythme musicale à partir d'un vélo stationnaire. Quand quelqu'un monte sur le vélo et pédale, cela illumine les Dels qui entourent l'arbre et celles qui seront suspendues aux bouts de certaines branches sous la forme de feuilles. D'autres DEl en forment de fleurs seront sur les plantes environnantes . Toutes ces DEL adressables s'éclairent selon le rythme de l'utilisateur et s'arrêtent automatiquement dès qu'il arrête de pédalé . Les couleurs sont prédéfinis en avance et chaque changement de lumières représente une saison. Cela représente le cycle des saisons.
 
 ## Type d'installation
-interactive
+Interactive
 
 ## Mise en espace
 ![image sélection nom du fichier](media/lumasol_photo_croquis.png)
 ![image sélection nom du fichier](media/luminasol_photo_04.jpg)
 ![image sélection nom du fichier](media/luminasol_photo_05.png)
 
-L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est relié a celui-ci. Le dispositif lumineux est accrocher dans l'arbre en question et six poteaux lumineux entour le vélo.
+L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est relié a celui-ci. Le dispositif lumineux est accrocher dans l'arbre en question et six poteaux Lumineux entour le vélo.
 
 ## Composantes et techniques
 ![image sélection nom du fichier](media/lumasol_photo_technique_01.png)

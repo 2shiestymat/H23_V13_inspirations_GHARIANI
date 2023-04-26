@@ -37,7 +37,7 @@ Interactive
 ![image sélection nom du fichier](media/luminasol_photo_04.jpg)
 ![image sélection nom du fichier](media/luminasol_photo_05.png)
 
-L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est relié a celui-ci. Le dispositif lumineux est accrocher dans l'arbre en question et six poteaux Lumineux entour le vélo.
+L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est relié a celui-ci. Le dispositif lumineux est accrocher dans l'arbre en question et six poteaux lumineux entour le vélo.
 
 ## Composantes et techniques
 ![image sélection nom du fichier](media/lumasol_photo_technique_01.png)
@@ -67,13 +67,13 @@ L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est reli
 - vélo-stationnaire
 
 ## Expérience vécue
-Je suis très impressionné par les projets que les étudiants ont réalisés. Luma Sol m'a beacoup surpris, je ne savais pas qu'un projet pouvait comporter autant de particularitées et de facettes. C'est quand meme incroyable que des étudiants ai réussi à faire de la lumière et des sons à partir d'un vélo-stationnaire. Dans une seule oeuvre, tu peux découvrir plusieurs saisons, écouter toute sorte de sons et voir un magnifique jeux de lumières tout en pédalant! 
+Je suis très impressionné par les projets que les étudiants ont réalisés. Luma Sol m'a beacoup surpris, je ne savais pas qu'un projet pouvait comporter autant de particularitées et de facettes. C'est quand même incroyable que des étudiants aient réussi à faire de la lumière et des sons à partir d'un vélo-stationnaire. Dans une seule oeuvre, tu peux découvrir plusieurs saisons, écouter toute sorte de sons et voir un magnifique jeux de lumières tout en pédalant! 
 
 ## ❤️ Ce qui vous a plu
-Ce qui m'a le plus plu: Les mangnifiques lumieres déposer sur l'arbre, le fait fait de pouvoir bouger ( pédaler ) pendant l'expérience, le fait que le projet soit situé a l'extérieure, le fait de pouvoir faire de l'énergie sans polué ( mécanique et électrique ) car cela nous sensibilise au niveaux de l'environnement et les différents sons qu'on peut entendre.
+Ce qui m'a le plus plu: Les mangnifiques lumières déposer sur l'arbre, le fait fait de pouvoir bouger ( pédaler ) pendant l'expérience, le fait que le projet soit situé a l'extérieure, le fait de pouvoir faire de l'énergie sans polué ( mécanique et électrique ) car cela nous sensibilisent au niveaux de l'environnement et les différents sons qu'on peut entendre.
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Ce qui m'a le moins plu: Je pense que la sensibilisation via l'environnement n'est pas assez claire. Oui, on pédale pour faire de l'électricité mais selon moi, ils devrait montrer artistiquement ce que le changement climatique ou ce que les problèmes d'environnement font sur la société. Finalement, j'aurais aimé que les jeux de lumières dans l'arbre soient plus élaborés. Anisi, ils auraient pu mettre plus de personnalité dans le projet.
+Ce qui m'a le moins plu: Je pense que la sensibilisation via l'environnement n'est pas assez claire. Oui, on pédale pour faire de l'électricité mais selon moi, ils devraient montrer artistiquement ce que le changement climatique ou ce que les problèmes d'environnement font sur la société. Finalement, j'aurais aimé que les jeux de lumières dans l'arbre soient plus élaborés. Anisi, ils auraient pu mettre plus de personnalité dans le projet.
 
 ## Références
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html

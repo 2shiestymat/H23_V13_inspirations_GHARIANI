@@ -42,10 +42,24 @@ interactive
 L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est relié a celui-ci. Le dispositif lumineux est accrocher dans l'arbre en question et six poteaux lumineux entour le vélo.
 
 ## Composantes et techniques
-- Logiciels
-- 
+- Logiciels ( MAX, Davinci, Exel,...)
+- ordinateurs
+- perceuse
+- tourne-vis
+- pince
+- pieces électroniques
 
 ## Éléments nécessaires à la mise en exposition
+- cables
+- cache-fils
+- moteur
+- lumières
+- crochets
+- haut-parleurs
+- poteaux
+- vélo-stationnaire
+- ruban adhésif
+- LED
 
 ## Expérience vécue
 
@@ -54,3 +68,4 @@ L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est reli
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
 ## Références
+https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html

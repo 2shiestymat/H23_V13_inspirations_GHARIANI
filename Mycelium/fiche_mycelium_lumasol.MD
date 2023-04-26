@@ -44,7 +44,7 @@ L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est reli
 ## Composantes et techniques
 ![image sélection nom du fichier](media/lumasol_photo_technique_01.png)
 ![image sélection nom du fichier](media/lumasol_photo_technique_02.png)
-- Logiciels ( MAX, Davinci, Exel,...)
+- Logiciels ( MAX, Davinci, Exel, ect...)
 - ordinateurs
 - perceuse
 - tourne-vis
@@ -64,8 +64,10 @@ L'oeuvre a été mise ne place dehors. Le vélo fait face a un arbre et est reli
 - LED
 
 ## Expérience vécue
+Je suis très impressionné par les projets que les étudiants ont réalisés. Luma Sol m'a beacoup surpris, je ne savais pas qu'un projet pouvait comporter autant de particularitées et de facettes. C'est quand meme incroyable que des étudiants ai réussi à faire de la lumière et des sons à partir d'un vélo-stationnaire. Dans une seule oeuvre, tu peux découvrir plusieurs saisons, écouter toute sorte de sons et voir un magnifique jeux de lumières tout en pédalant! 
 
 ## ❤️ Ce qui vous a plu
+
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 

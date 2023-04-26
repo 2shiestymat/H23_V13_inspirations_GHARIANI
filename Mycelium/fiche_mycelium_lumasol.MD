@@ -1,7 +1,7 @@
 # **Luma Sol**
 
 ## Exposition
-### Mycélium
+Mycélium
 
 ## Lieu de mise en exposition
 Collège Montmorency
@@ -24,7 +24,9 @@ Luma Sol
 2023
 
 ## Description de l'oeuvre ou du dispositif
-
+![image sélection nom du fichier](media/lumasol_photo_02.png)
+![image sélection nom du fichier](media/lumasol_photo_02.png)
+Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux.
 
 ##
 

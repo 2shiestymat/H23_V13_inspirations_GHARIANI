@@ -44,7 +44,7 @@ Le projet immersif Echomarine met en avant des enjeux environnementaux sur la na
 Je pense que je serais assez conquis par ce projet car la projections fait toute la piece. Les animations au aussi l'air relaxante.
 
 ### classement
-Je met ce projet en troisieme place, car ette oeuvre se distingue des autres par son approche qui consiste à utiliser des projecteurs au lieu des ampoules pour créer une immersion complète. Bien que les interactions avec l'utilisateur soient simples, l'ensemble est très bien réalisé avec des bruits sous-marins réalistes et une ambiance immersive.
+Je met ce projet en troisième place, car ette oeuvre se distingue des autres par son approche qui consiste à utiliser des projecteurs au lieu d'utiliser des ampoules pour créer une immersion complète. Bien que les interactions avec l'utilisateur soient simples, l'ensemble est très bien réalisé avec des bruits sous-marins réalistes et une ambiance immersive.
 
 # **4. Nexum**
 Réalisé par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers.
@@ -60,4 +60,4 @@ Dans l'oeuvre Nexum, la forme et la couleur des dispositifs lumineux peuvent nou
 J'aime bien marcher dans un univers fantasique, mais après un passage, j'ai l'impression que j'aurai déja tout vu... Sinon j'aime bien les décorations.
 
 ### classement
-Je met ce projet en quatrieme place, car pour faire tout un chemain, j'ai l'impression que quelque lumières et quelques décorations n'est pas assez pour que je sois conquis... Les lumières et les décorations sont tout de même belles et crées une bonne ambiance.
+Je met ce projet en quatrième place, car pour faire tout un chemain, j'ai l'impression que quelque lumières et quelques décorations n'est pas assez pour que je sois conquis... Les lumières et les décorations sont tout de même belles et crées une bonne ambiance.

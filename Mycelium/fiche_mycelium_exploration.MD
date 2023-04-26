@@ -6,7 +6,7 @@ Dans l'oeuvre Luma Sol, on produit de l'énergie sans polué la planet. Cela nou
 
 ### Installations
 ![image sélection nom du fichier](media/lumasol_photo_03.jpg)
-![image sélection nom du fichier]()
+![image sélection nom du fichier](media/lumasol_photo_01.png)
 ![image sélection nom du fichier]()
 
 ### Schéma d'installation

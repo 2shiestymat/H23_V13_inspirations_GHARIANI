@@ -7,7 +7,7 @@ Dans l'oeuvre Luma Sol, on produit de l'énergie sans polué la planet. Cela nou
 ### Installations
 ![image sélection nom du fichier](media/lumasol_photo_03.jpg)
 ![image sélection nom du fichier](media/lumasol_photo_01.png)
-![image sélection nom du fichier]()
+![image sélection nom du fichier](media/lumasol_photo_02.png)
 
 ### Schéma d'installation
 ![image sélection nom du fichier](media/lumasol_photo_plan.png)
@@ -28,7 +28,7 @@ Tout comme les champignons mycélium (s'entraide pour le bon fonctionnement de l
 
 ### Installations
 ![image sélection nom du fichier](media/edria_photo_03.png)
-![image sélection nom du fichier]()
+![image sélection nom du fichier](media/edria_photo_01.png)
 ![image sélection nom du fichier]()
 
 ### Schéma d'installation

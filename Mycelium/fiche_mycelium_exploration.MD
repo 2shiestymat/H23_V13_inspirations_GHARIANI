@@ -42,7 +42,7 @@ Réalisé par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coro
 Le projet immersif Echomarine met en avant des enjeux environnementaux sur la nature. Le but de ce projet est de nous sensibiliser sur l'environnement et la nature donc, de nous sensibiliser sur les champignions qui assure un bon fonctionnement de la nature.
 
 ### Installations
-![image sélection nom du fichier]()
+![image sélection nom du fichier](media/echomarine_photo_02.png)
 
 ### Schéma d'installation
 ![image sélection nom du fichier]()

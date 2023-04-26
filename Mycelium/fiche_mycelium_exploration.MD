@@ -31,7 +31,20 @@ Lorsque j'ai fait la visite, le projet n'était pas encore fini mais voir la fac
 Je met ce projet en deuxième place, car l'idée de créer des compositions lumineuses et sonores personnalisées en fonction du nombre de personnes présentes, ainsi que d'avoir une animation spéciale lorsque des personnes se trouvent de chaque côté de la tour, est très attrayante. De plus, je pense que la mise en œuvre de ce projet est très complexe, tant sur le plan technique que sur le plan environnemental.
 
 # **3. Echomarine**
+Réalisé par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel.
+
+### Lien avec Mycélium
 Le projet immersif Echomarine met en avant des enjeux environnementaux sur la nature. Le but de ce projet est de nous sensibiliser sur l'environnement et la nature donc, de nous sensibiliser sur les champignions qui assure un bon fonctionnement de la nature.
+
+### Installations en cours
+
+### Schéma d'installation
+
+### Impression
+Je pense que je serais assez conquis par ce projet car la projections fait toute la piece. Les animations au aussi l'air relaxante.
+
+### classement
+Je met ce projet en troisieme place, car ette oeuvre se distingue des autres par son approche qui consiste à utiliser des projecteurs au lieu des ampoules pour créer une immersion complète. Bien que les interactions avec l'utilisateur soient simples, l'ensemble est très bien réalisé avec des bruits sous-marins réalistes et une ambiance immersive.
 
 # **4. Nexum**
 Réalisé par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers.
@@ -47,5 +60,4 @@ Dans l'oeuvre Nexum, la forme et la couleur des dispositifs lumineux peuvent nou
 J'aime bien marcher dans un univers fantasique, mais après un passage, j'ai l'impression que j'aurai déja tout vu... Sinon j'aime bien les décorations.
 
 ### classement
-Je met ce projet en quatrieme place car, pour faire tout un chemain, j'ai l'impression que quelque lumières et quelques décorations n'est pas assez pour que je sois conquis... Les lumières et les décorations sont tout de même belles et crées une bonne ambiance.
-
+Je met ce projet en quatrieme place, car pour faire tout un chemain, j'ai l'impression que quelque lumières et quelques décorations n'est pas assez pour que je sois conquis... Les lumières et les décorations sont tout de même belles et crées une bonne ambiance.

@@ -5,8 +5,10 @@ Réalisé par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Mo
 Dans l'oeuvre Luma Sol, on produit de l'énergie sans polué la planet. Cela nous rappelle qu'il faut protèger l'environnement et la nature donc, qu'il faut aussi protèger les champignions qui assure un bon fonctionnement de la nature. De plus, les dispositifs lumineux me font penser a des champignions mycélium vu qu'ils ont la meme forme et qu'ils sont dans un arbre.
 
 ## Installations en cours
+dff
 
 ## Schéma d'installation
+fff
 
 ## classement
 Je met ce projet en première position car, j'ardore l'idée du velo. Les utilisateurs seront certainement fascinés en tournant les roues du vélo, tandis que les différentes lumières et sons représentant les saisons de l'année leur donneront une signification. En testant le vélo, j'essaierai de distinguer chaque son et chaque lumière pour comprendre leur signification respective. Aussi, le projet nous sensiblise sur l'environnement.

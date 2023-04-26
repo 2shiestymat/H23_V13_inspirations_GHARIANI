@@ -31,11 +31,9 @@ Lorsque j'ai fait la visite, le projet n'était pas encore fini mais voir la fac
 Je met ce projet en deuxième place, car l'idée de créer des compositions lumineuses et sonores personnalisées en fonction du nombre de personnes présentes, ainsi que d'avoir une animation spéciale lorsque des personnes se trouvent de chaque côté de la tour, est très attrayante. De plus, je pense que la mise en œuvre de ce projet est très complexe, tant sur le plan technique que sur le plan environnemental.
 
 
-
 # **3. Nexum**
 Dans l'oeuvre Nexum, la forme et la couleur des dispositifs lumineux peuvent nous faire penser a des champinions mycélium. Comme si le payssage étaient parsemer de champignions lumineux.
-# **4. Zodie-Gal**
-Les champigions mycélium peuvent parfois devenir dangeureux (lorsqu'ils poussent dans les arbres par example) et les monstres zodiacs du jeux vidéo Zodie-Gal represente surmment les champignions mycélium qui veulent se répendre.
-# **5. Echomarine**
+
+# **4. Echomarine**
 Le projet immersif Echomarine met en avant des enjeux environnementaux sur la nature. Le but de ce projet est de nous sensibiliser sur l'environnement et la nature donc, de nous sensibiliser sur les champignions qui assure un bon fonctionnement de la nature.
 

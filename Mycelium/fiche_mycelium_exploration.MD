@@ -1,5 +1,5 @@
 # **1. Luma Sol**
-Réalisé par : Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson.
+Réalisé par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson.
 
 Dans l'oeuvre Luma Sol, on produit de l'énergie sans polué la planet. Cela nous rappelle qu'il faut protèger l'environnement et la nature donc, qu'il faut aussi protèger les champignions qui assure un bon fonctionnement de la nature. De plus, les dispositifs lumineux me font penser a des champignions mycélium vu qu'ils ont la meme forme et qu'ils sont dans un arbre.
 

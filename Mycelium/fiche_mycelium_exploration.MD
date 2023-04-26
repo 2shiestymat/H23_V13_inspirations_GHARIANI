@@ -26,7 +26,7 @@ Tout comme les champignons mycélium (s'entraide pour le bon fonctionnement de l
 ![image sélection nom du fichier](media/edria_photo_03.png)
 
 ### Schéma d'installation
-![image sélection nom du fichier]()
+![image sélection nom du fichier](media/edria_photo_plan_01.png)
 ![image sélection nom du fichier]()
 
 ### Impression

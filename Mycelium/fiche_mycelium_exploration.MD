@@ -9,7 +9,7 @@ Dans l'oeuvre Luma Sol, on produit de l'énergie sans polué la planet. Cela nou
 ### Schéma d'installation
 
 ### classement
-Je met ce projet en première position car, j'ardore l'idée du velo. Les utilisateurs seront certainement fascinés en tournant les roues du vélo, tandis que les différentes lumières et sons représentant les saisons de l'année leur donneront une signification. En testant le vélo, j'essaierai de distinguer chaque son et chaque lumière pour comprendre leur signification respective. Aussi, le projet nous sensiblise sur l'environnement.
+Je met ce projet en première position, car j'ardore l'idée du velo. Les utilisateurs seront certainement fascinés en tournant les roues du vélo, tandis que les différentes lumières et sons représentant les saisons de l'année leur donneront une signification. En testant le vélo, j'essaierai de distinguer chaque son et chaque lumière pour comprendre leur signification respective. Aussi, le projet nous sensiblise sur l'environnement.
 
 ### Impression
 J'ai adoré decouvrir les différents song et pouvoir faire du sport tout en étant émerveiller par les lumieres.
@@ -28,7 +28,7 @@ Tout comme les champignons mycélium (s'entraide pour le bon fonctionnement de l
 Lorsque j'ai fait la visite, le projet n'était pas encore fini mais voir la facon donc l'oeuvre réagissait avec nous était très impressionnant!
 
 ### classement
-Je met ce projet en deuxieme place car, l'idée de créer des compositions lumineuses et sonores personnalisées en fonction du nombre de personnes présentes, ainsi que d'avoir une animation spéciale lorsque des personnes se trouvent de chaque côté de la tour, est très attrayante. De plus, je pense que la mise en œuvre de ce projet est très complexe, tant sur le plan technique que sur le plan environnemental.
+Je met ce projet en deuxième place, car l'idée de créer des compositions lumineuses et sonores personnalisées en fonction du nombre de personnes présentes, ainsi que d'avoir une animation spéciale lorsque des personnes se trouvent de chaque côté de la tour, est très attrayante. De plus, je pense que la mise en œuvre de ce projet est très complexe, tant sur le plan technique que sur le plan environnemental.
 
 
 

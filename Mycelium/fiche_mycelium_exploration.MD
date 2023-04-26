@@ -6,9 +6,13 @@ Dans l'oeuvre Luma Sol, on produit de l'énergie sans polué la planet. Cela nou
 
 ### Installations
 ![image sélection nom du fichier](media/lumasol_photo_03.jpg)
+![image sélection nom du fichier]()
+![image sélection nom du fichier]()
 
 ### Schéma d'installation
 ![image sélection nom du fichier](media/lumasol_photo_plan.png)
+![image sélection nom du fichier]()
+![image sélection nom du fichier]()
 
 ### Impression
 J'ai adoré decouvrir les différents song et pouvoir faire du sport tout en étant émerveiller par les lumieres.
@@ -24,6 +28,8 @@ Tout comme les champignons mycélium (s'entraide pour le bon fonctionnement de l
 
 ### Installations
 ![image sélection nom du fichier](media/edria_photo_03.png)
+![image sélection nom du fichier]()
+![image sélection nom du fichier]()
 
 ### Schéma d'installation
 ![image sélection nom du fichier](media/edria_photo_plan_01.png)
@@ -43,8 +49,12 @@ Le projet immersif Echomarine met en avant des enjeux environnementaux sur la na
 
 ### Installations
 ![image sélection nom du fichier](media/echomarine_photo_02.png)
+![image sélection nom du fichier]()
+![image sélection nom du fichier]()
 
 ### Schéma d'installation
+![image sélection nom du fichier]()
+![image sélection nom du fichier]()
 ![image sélection nom du fichier]()
 
 ### Impression
@@ -62,8 +72,10 @@ Dans l'oeuvre Nexum, la forme et la couleur des dispositifs lumineux peuvent nou
 ### Installations
 ![image sélection nom du fichier]()
 ![image sélection nom du fichier]()
+![image sélection nom du fichier]()
 
 ### Schéma d'installation
+![image sélection nom du fichier]()
 ![image sélection nom du fichier]()
 ![image sélection nom du fichier]()
 

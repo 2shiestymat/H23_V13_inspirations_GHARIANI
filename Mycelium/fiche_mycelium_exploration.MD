@@ -8,7 +8,7 @@ Dans l'oeuvre Luma Sol, on produit de l'énergie sans polué la planet. Cela nou
 ![image sélection nom du fichier](media/lumasol_photo_03.jpg)
 
 ### Schéma d'installation
-![image sélection nom du fichier]()
+![image sélection nom du fichier](media/lumasol_photo_plan.png)
 
 ### Impression
 J'ai adoré decouvrir les différents song et pouvoir faire du sport tout en étant émerveiller par les lumieres.

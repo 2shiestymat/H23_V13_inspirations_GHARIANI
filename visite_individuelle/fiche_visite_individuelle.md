@@ -14,3 +14,15 @@ Mardi, 11 Avil 2023
 
 ## Titre de l'oeuvre ou du dispositif
 SAIAKWANAKTAKWE'NÍ:IO'NE' ( Prendre la place qui nous revient )
+
+## Nom de l'artiste ou de la firme
+Par Elisabeth Kaine et l’Innu Jean St-Onge.
+
+## Année de réalisation
+2021
+
+## Description de l'oeuvre ou du dispositif
+
+## Type d'installation
+
+## Fonction du dispositif multimédia

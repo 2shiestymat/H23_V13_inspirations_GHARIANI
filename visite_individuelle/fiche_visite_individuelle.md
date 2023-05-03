@@ -3,6 +3,8 @@
 ## Exposition
 Voix autochtones d'aujourd'hui - Savoir, trauma, brésilien
 
+![image sélection nom du fichier](media/vi_affiche_01.jpg)
+
 ## Lieu de mise en exposition
 Musée McCord Stewart
 

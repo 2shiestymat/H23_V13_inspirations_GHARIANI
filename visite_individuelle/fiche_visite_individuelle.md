@@ -15,6 +15,9 @@ Mardi, 11 Avil 2023
 ## Titre de l'oeuvre ou du dispositif
 SAIAKWANAKTAKWE'NÍ:IO'NE' ( Prendre la place qui nous revient )
 
+![image sélection nom du fichier](media/vi_global_02.png)
+
+
 ## Nom de l'artiste ou de la firme
 Par Elisabeth Kaine et l’Innu Jean St-Onge.
 

@@ -53,3 +53,15 @@ Lorsque'on entre dans la piece, en tout premier, on a l'espace ou sont diffuser 
 ![image sélection nom du fichier](media/vi_wampum_01.png)
 ![image sélection nom du fichier](media/vi_global_03.png)
 ![image sélection nom du fichier](media/vi_croquis.png)
+
+## Composantes et techniques
+
+## Éléments nécessaires à la mise en exposition
+
+## Expérience vécue
+
+## ❤️ Ce qui vous a plu, vous a donné des idées
+
+## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+
+## Références

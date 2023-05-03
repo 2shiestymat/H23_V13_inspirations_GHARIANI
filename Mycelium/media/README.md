@@ -1,1 +1,1 @@
-Les photos du projet Mycélium
+Les photos du projet Mycélium.

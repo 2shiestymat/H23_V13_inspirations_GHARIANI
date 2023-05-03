@@ -1,7 +1,7 @@
 # **Ma visite individuelle**
 
 ## Exposition
-Voix autochtones d'aujourd'hui - Savoir, trauma, brésilien
+Voix autochtones d'aujourd'hui - Savoir, trauma, résillience
 
 ![image sélection nom du fichier](media/vi_affiche_01.jpg)
 

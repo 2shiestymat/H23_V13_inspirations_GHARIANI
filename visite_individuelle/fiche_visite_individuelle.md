@@ -36,5 +36,10 @@ L’exposition Voix autochtones d’aujourd’hui : savoir, trauma, résilience 
 ![image sélection nom du fichier]()
 
 ## Type d'installation
+contemplative et immersive
+
+https://www.youtube.com/shorts/7mT_0Em8TFE
+
+https://www.youtube.com/shorts/FKmnDt6P8UU
 
 ## Fonction du dispositif multimédia

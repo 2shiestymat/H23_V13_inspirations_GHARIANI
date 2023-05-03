@@ -23,6 +23,8 @@ SAIAKWANAKTAKWE'NÍ:IO'NE' ( Prendre la place qui nous revient )
 ## Nom de l'artiste ou de la firme
 Par Elisabeth Kaine et l’Innu Jean St-Onge.
 
+![image sélection nom du fichier](media/vi_cartel_01.png)
+
 ## Année de réalisation
 2021
 

@@ -1,1 +1,1 @@
-Les photos et vidéos de ma visite individuelle.
+Les photos et de ma visite individuelle.

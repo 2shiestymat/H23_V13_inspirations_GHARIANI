@@ -31,6 +31,10 @@ Par Elisabeth Kaine et l’Innu Jean St-Onge.
 ## Description de l'oeuvre ou du dispositif
 L’exposition Voix autochtones d’aujourd’hui : savoir, trauma, résilience témoigne des savoirs encore trop méconnus des peuples autochtones, des blessures profondes qu’ils portent et de leur incroyable résilience.
 
+Cette exposition avait pour thème la résilience du peuple autochtone et la collaboration.
+
+Le point en commun de tout les vidéos et projets de cette œuvre est la collaboration entre personnes autochtones et allochtones. Porté sur la résilience du peuple autochtone, cette a œuvre a pour but de guérir les blessures du passé. On peut entendre des témoignages touchants et écoutés des vidéos ou les gens s'impliquent pour trouver des solutions dans notre société où les autochtones subissent des injustices.
+
 ![image sélection nom du fichier](media/vi_global_04.png)
 
 ## Type d'installation

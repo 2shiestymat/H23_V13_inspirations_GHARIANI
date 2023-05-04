@@ -60,21 +60,20 @@ Lorsque'on entre dans la piece, en tout premier, on a l'espace ou sont diffuser 
 
 ## Éléments nécessaires à la mise en exposition
 - projecteur
-- banc
+- bancs
 - toile
 - platre
 - vitres
 - piece en metal ( vises, clous, ect... )
 - ecrans
-- telephones
-- 
+- téléphones
 
-![image sélection nom du fichier](media/vi_asset_02.png)
 ![image sélection nom du fichier](media/vi_asset_03.png)
 ![image sélection nom du fichier](media/vi_asset_05.png)
 ![image sélection nom du fichier](media/vi_asset_06.png)
 
 ## Expérience vécue
+
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 

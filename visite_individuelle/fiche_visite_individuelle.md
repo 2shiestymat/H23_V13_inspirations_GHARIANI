@@ -32,7 +32,6 @@ Par Elisabeth Kaine et l’Innu Jean St-Onge.
 L’exposition Voix autochtones d’aujourd’hui : savoir, trauma, résilience témoigne des savoirs encore trop méconnus des peuples autochtones, des blessures profondes qu’ils portent et de leur incroyable résilience.
 
 ![image sélection nom du fichier](media/vi_global_04.png)
-![image sélection nom du fichier]()
 
 ## Type d'installation
 contemplative et immersive
@@ -42,7 +41,7 @@ https://www.youtube.com/shorts/7mT_0Em8TFE
 https://www.youtube.com/watch?v=6tDy9oVOZag
 
 ## Fonction du dispositif multimédia
-Comme je l'ai mentionner plus haut, ce dispositif témoigne des savoirs encore trop méconnus des peuples autochtones, des blessures profondes qu’ils portent et de leur incroyable résilience face a la situation.
+Comme je l'ai mentionné plus haut, ce dispositif témoigne des savoirs encore trop méconnus des peuples autochtones, des blessures profondes qu’ils portent et de leur incroyable résilience face à la situation.
 
 https://www.youtube.com/shorts/FKmnDt6P8UU
 

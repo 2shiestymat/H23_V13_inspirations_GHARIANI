@@ -73,7 +73,6 @@ Lorsque'on entre dans la piece, en tout premier, on a l'espace ou sont diffuser 
 ![image sélection nom du fichier](media/vi_asset_06.png)
 
 ## Expérience vécue
-
 J'ai aimé visiter cette exposition. Des que je suis rentrer dans la piece, la petite diffusion d'une foret sur le mur m'a tout de suite mit dans le theme, je pouvais me mettre a la place des autochtones. L'exposition degagait une ambiance relaxante mais aussi pessante pour nous rapeller toutes les choses que les autochtones ont subient. En rentrant, tu distingue tout d'abord une petite foret calme dans le nord du Québec mais apres, les vidéos et les discours touchants apport a cette foret et cette environnement une ambiance triste et touchante. Le wampum numérique ma beaucoup plus, le fait que les vidéos du wampum soient diffusées aléatoirement ma amusé. Finalement, les visuels et les illustrations étaient magnifiques.
 
 ## ❤️ Ce qui vous a plu

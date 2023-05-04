@@ -61,10 +61,10 @@ Lorsqu'on entre dans la pièce, en tout premier, on a l'espace où sont diffusé
 - projecteur
 - bancs
 - toile
-- platre
+- Plâtre
 - vitres
-- piece en metal ( vises, clous, ect... )
-- ecrans
+- pièces en metal ( vises, clous, ect... )
+- écrans
 - téléphones
 
 ![image sélection nom du fichier](media/vi_asset_03.png)

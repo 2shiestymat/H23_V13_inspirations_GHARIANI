@@ -76,9 +76,11 @@ Lorsque'on entre dans la piece, en tout premier, on a l'espace ou sont diffuser 
 
 J'ai aimé visiter cette exposition. Des que je suis rentrer dans la piece, la petite diffusion d'une foret sur le mur m'a tout de suite mit dans le theme, je pouvais me mettre a la place des autochtones. L'exposition degagait une ambiance relaxante mais aussi pessante pour nous rapeller toutes les choses que les autochtones ont subient. En rentrant, tu distingue tout d'abord une petite foret calme dans le nord du Québec mais apres, les vidéos et les discours touchants apport a cette foret et cette environnement une ambiance triste et touchante. Le wampum numérique ma beaucoup plus, le fait que les vidéos du wampum soient diffusées aléatoirement ma amusé. Finalement, les visuels et les illustrations étaient magnifiques.
 
-## ❤️ Ce qui vous a plu, vous a donné des idées
+## ❤️ Ce qui vous a plu
+Ce qui m'a le plus plu: Les diffusions sur les murs car les animations étaient fluides et le design graphique suivait bien le theme de l'exposition. Les téléphones qui nous permettaient d'ecouter les vidéos car je trouve l'idée originale. La partie de l'exposition ou étaient exposé des objets historique car cela ma mis encore plus dans l'ambiance, m'a  permis d'apprendre des choses et j'ai pu voir a quoi resemble un vrai wampum. la facon dont était exposé le wampum numérique car cela a apporter un coté plus dynamique.
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+Ce qui m'a le moins plus plu: je trouve que le wampum numérique aurait pu comporter moins de vidéos, écouter toutes les vidéos m'a pris beaucoup de temps. Aussi a leur place, j'aurait indiqué combien de vidéos comporte l'exposition car on ne sais jamais que le tout va finir. Finalement, l'idée des téléphones est tres originale, mais si beaucoup de personnes sont présente une journée, l'attente pourrait etre tres longue vu que l'exposition comporte que 6 téléphones...
 
 ## Références
 https://www.musee-mccord-stewart.ca/fr/expositions/voix-autochtones-aujourdhui/

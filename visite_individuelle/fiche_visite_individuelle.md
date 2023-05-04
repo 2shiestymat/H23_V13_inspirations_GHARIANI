@@ -55,8 +55,24 @@ Lorsque'on entre dans la piece, en tout premier, on a l'espace ou sont diffuser 
 ![image sélection nom du fichier](media/vi_croquis.png)
 
 ## Composantes et techniques
+- Logiciels
+- ordinateur
 
 ## Éléments nécessaires à la mise en exposition
+- projecteur
+- banc
+- toile
+- platre
+- vitres
+- piece en metal ( vises, clous, ect... )
+- ecrans
+- telephones
+- 
+
+![image sélection nom du fichier](media/vi_asset_02.png)
+![image sélection nom du fichier](media/vi_asset_03.png)
+![image sélection nom du fichier](media/vi_asset_05.png)
+![image sélection nom du fichier](media/vi_asset_06.png)
 
 ## Expérience vécue
 
